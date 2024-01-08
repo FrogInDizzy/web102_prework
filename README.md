@@ -17,23 +17,27 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [√] List anything else that you can get done to improve the app functionality!
+* [√] Adding search tab allow users be able to search the game they want
+* [√] Implemented a fading effect to enhance the smooth transition of images during their appearance and disappearance.
+* [√] Changing the color of the UI
 
-## Video Walkthrough
+
+
+
+
+
+* ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![2](https://github.com/FrogInDizzy/web102_prework/assets/105094497/5d11e130-3218-4986-a973-acbf8cb4d09d)
 
-<!-- Replace this with whatever GIF tool you used! -->
+https://imgur.com/v4AvxPQ
+
 GIF created with LICEcap 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+The most difficult thing I have encountered is tring to add a search tab.
 
 ## License
 
