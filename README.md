@@ -22,6 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![Screen Recording 2024-01-08 at 9 34 09 PM](https://github.com/FrogInDizzy/web102_prework/assets/105094497/48e68183-6885-4415-9e0d-c89fa809cc35)
+
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
