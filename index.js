@@ -242,9 +242,24 @@ document.addEventListener('DOMContentLoaded', (event) => {
     const searchInput = document.getElementById('search-input');
     const searchBtn = document.getElementById('search-btn');
 
-    searchBtn.addEventListener('click', () => {
+    function performSearch() {
         const searchTerm = searchInput.value.toLowerCase();
         const filteredGames = GAMES_JSON.filter(game => game.name.toLowerCase().includes(searchTerm));
-        addGamesToPage(filteredGames);
+        
+        deleteChildElements(gamesContainer);
+        
+        if (filteredGames.length > 0) {
+            addGamesToPage(filteredGames);
+        } else {
+            gamesContainer.innerText = 'No games found matching your search criteria.';
+        }
+    }
+
+    searchBtn.addEventListener('click', performSearch);
+
+    searchInput.addEventListener('keypress', (event) => {
+        if (event.key === 'Enter') {
+            performSearch();
+        }
     });
 });
