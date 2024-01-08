@@ -22,13 +22,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Screen Recording 2024-01-08 at 9 34 09 PM](https://github.com/FrogInDizzy/web102_prework/assets/105094497/48e68183-6885-4415-9e0d-c89fa809cc35)
-
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![2](https://github.com/FrogInDizzy/web102_prework/assets/105094497/5d11e130-3218-4986-a973-acbf8cb4d09d)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
